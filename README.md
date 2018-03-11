@@ -1,6 +1,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/abdelkarim-khallouk/dashingJS/badge.svg?branch=master)](https://coveralls.io/github/abdelkarim-khallouk/dashingJS?branch=master)
 [![Build Status](https://travis-ci.org/abdelkarim-khallouk/dashingJS.svg?branch=master)](https://travis-ci.org/abdelkarim-khallouk/dashingJS)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7c5abef906bb424eb2682750b4bcd435)](https://www.codacy.com/app/abdelkarim-khallouk/dashingJS?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abdelkarim-khallouk/dashingJS&amp;utm_campaign=Badge_Grade)
+
 
 # DashingJS
 
